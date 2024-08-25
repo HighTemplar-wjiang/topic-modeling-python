@@ -16,7 +16,7 @@ This is a sample repository including a simple qualitative analysis based on top
    ```bash
    git clone https://github.com/HighTemplar-wjiang/topic-modeling-python.git
    cd topic-modeling-python
-    
+   ```
 
 1. **Create a Virtual Environment:**
 
@@ -25,13 +25,13 @@ This is a sample repository including a simple qualitative analysis based on top
    ```bash
    conda create -n topic-modeling python=3.8
    conda activate topic-modeling
-   
+   ```
 
 1. **Install the Required Packages:**
 
    ```bash
    pip install -r requirements.txt
-   
+   ```
 
 1. **Launch Jupyter Lab:**
    ```bash
@@ -159,7 +159,6 @@ The topic modeling process is used in some of my previous publications, if you f
     month = {},
     note = {(Just accepted)}
 }
-
 ```
 
 
