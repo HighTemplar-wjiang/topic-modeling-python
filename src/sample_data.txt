@@ -1,0 +1,119 @@
+P01
+Q01
+I felt a mix of awe and excitement. The scene was visually stunning, and I couldn’t help but feel a sense of wonder. However, there were also brief moments of unease when the environment became too intense.
+
+P01
+Q02
+I was completely immersed in the VR scene. The sense of presence was so strong that I almost forgot I was in a virtual environment. This made the experience emotionally engaging, and I felt deeply connected to what I was seeing.
+
+P01
+Q03
+There were a few moments where I felt a bit uncomfortable, particularly when the environment became too crowded or chaotic. It made me feel a bit anxious, but it wasn’t overwhelming.
+
+P02
+Q01
+The experience was mostly calming, with a few moments of surprise. The peaceful scenery made me feel relaxed, but the sudden changes in the environment triggered a sense of alertness.
+
+P02
+Q02
+I felt moderately immersed, but not completely. While the visuals were impressive, there were times when I was reminded that it was just a simulation, which affected my emotional connection to the scene.
+
+P02
+Q03
+I didn’t feel uncomfortable during the experience, but there were moments when the audio was too loud, which slightly startled me and pulled me out of the calm state I was in.
+
+P03
+Q01
+I felt a strong sense of excitement and curiosity throughout the VR scene. The environment was so detailed and interactive that I couldn’t help but explore it with enthusiasm.
+
+P03
+Q02
+The immersion was incredible. I felt as though I was actually inside the scene, which made my emotional response much more intense. The connection to the environment was very strong.
+
+P03
+Q03
+At one point, the scene became too dark, and I felt a bit of fear. It was a sudden change that caught me off guard, but it didn’t last long.
+
+P04
+Q01
+The VR scene evoked a lot of joy and nostalgia for me. It reminded me of places I used to visit, and I felt a deep sense of comfort and happiness.
+
+P04
+Q02
+I was very immersed in the scene, and it felt almost real. This immersion brought out a lot of positive emotions, making me feel like I was reliving old memories.
+
+P04
+Q03
+I didn’t experience any discomfort. The scene was very pleasant and soothing, so my emotional response was mostly positive.
+
+P05
+Q01
+I felt a mix of curiosity and apprehension. The scene was intriguing, but there were parts that made me feel a bit uneasy, especially when the atmosphere became more ominous.
+
+P05
+Q02
+The level of immersion was high, but I wasn’t completely lost in the scene. There were moments when I was aware of the artificial nature of the environment, which affected my emotional connection.
+
+P05
+Q03
+There was a specific moment when the lighting suddenly changed, and I felt a bit disoriented. This made me feel uncomfortable, but it was a brief sensation.
+
+P06
+Q01
+I felt a lot of excitement and curiosity. The scene was dynamic and full of surprises, which kept me engaged and emotionally invested throughout.
+
+P06
+Q02
+I felt very immersed in the scene. The realism of the environment made it easy to forget that I was in a virtual space, which enhanced my emotional experience.
+
+P06
+Q03
+There were a couple of moments where I felt slightly overwhelmed by the intensity of the scene, especially when the action picked up quickly. However, it didn’t detract from the overall experience.
+
+P07
+Q01
+The experience was quite relaxing overall. The serene environment made me feel calm and at peace, but there were occasional moments of tension due to unexpected changes in the scene.
+
+P07
+Q02
+I felt somewhat immersed, but not completely. While the visuals were soothing, I was aware that it was a virtual experience, which kept me slightly detached emotionally.
+
+P07
+Q03
+I didn’t feel particularly uncomfortable at any point, but there were brief moments of surprise that disrupted the calm atmosphere.
+
+P08
+Q01
+I experienced a lot of curiosity and excitement. The scene was filled with interesting elements, and I felt driven to explore and interact with the environment.
+
+P08
+Q02
+The immersion was deep, and I felt very connected to the scene. This connection made my emotional response more intense, especially during the more interactive parts.
+
+P08
+Q03
+There was a brief moment where I felt uncomfortable due to a sudden change in the environment. It was a bit disorienting, but it didn’t last long.
+
+P09
+Q01
+I felt calm and content throughout most of the experience. The scene was visually pleasing and created a sense of tranquility, which I enjoyed.
+
+P09
+Q02
+I was moderately immersed in the scene. While it was visually engaging, there were times when I was reminded that it was just a simulation, which slightly impacted my emotional connection.
+
+P09
+Q03
+I didn’t experience any discomfort during the VR experience. The entire scene was very soothing and kept me in a relaxed state.
+
+P10
+Q01
+The experience was a mix of excitement and nervousness. The scene was thrilling, but there were parts that made me feel a bit tense, especially when the environment became more intense.
+
+P10
+Q02
+I felt highly immersed in the scene, almost as if I was truly there. This immersion heightened my emotional response, making the experience more thrilling and engaging.
+
+P10
+Q03
+There were a few moments where I felt slightly overwhelmed, particularly when the action escalated quickly. It made me feel a bit tense, but it was also exciting.
